@@ -1,3 +1,4 @@
+<img width="919" height="620" alt="Captura de Tela 2026-04-29 às 02 19 03" src="https://github.com/user-attachments/assets/eaf40255-acb9-4419-b151-a53c32bea62f" />
 # 🤖 Asistente de IA en Telegram (Workflow de n8n)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -8,6 +9,7 @@
 Este proyecto implementa un asistente virtual inteligente en Telegram utilizando **n8n**. El agente está impulsado por el modelo de lenguaje de **Cohere** y cuenta con memoria contextual, además de integración directa con Google Calendar y Gmail.
 
 > **Estado:** Sistema en expansión 🚀
+![Uploading Captura de Tela 2026-04-29 às 02.19.03.png…]()
 
 ## ✨ Características
 
